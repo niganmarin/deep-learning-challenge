@@ -4,25 +4,25 @@
 The purpose of this analysis was to build a neural network that can predict if applicants will be successful if funded by Alphabet soup.
 
 ## 2. Results
-Target Variable 
+# Target Variable 
 •	IS_SUCCESSFUL
 
-Features 
+# Features 
 •	All columns except 'IS_SUCCESSFUL'
 
-Variables to be Removed 
+# Variables to be Removed 
 •	EIN
 •	Name
 
-1st Layer Neurons 
+# 1st Layer Neurons 
 •	20
 •	relu
 
-2nd Layer Neurons 
+# 2nd Layer Neurons 
 •	10
 •	relu
 
-3rd Layer Neurons 
+# 3rd Layer Neurons 
 •	3
 •	relu
 
