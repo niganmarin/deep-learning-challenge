@@ -36,7 +36,7 @@ Variables to be Removed
 •	relu
 
 3rd Layer Neurons = 
-•	10
+•	3
 •	relu
 
 
