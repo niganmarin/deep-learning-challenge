@@ -11,7 +11,7 @@ IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/
 
 
 
-
+#### Analysis
 
 1. Purpose of analysis
 The purpose of this analysis was to build a neural network that can predict if applicants will be successful if funded by Alphabet soup.
