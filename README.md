@@ -22,10 +22,9 @@ Variables to be Removed
 •	10
 •	relu
 
-3rd Layer Neurons = 
+3rd Layer Neurons 
 •	3
 •	relu
-
 
 
 ### The steps I took to improve the model were:
